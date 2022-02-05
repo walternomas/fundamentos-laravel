@@ -12,3 +12,6 @@ Proyecto donde aplicar los principales conceptos de Laravel.
         Seeder
         Factory
         Controller
+
+    php artisan migrate
+        configuro la estructura de la tabla Post.
