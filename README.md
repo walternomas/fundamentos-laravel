@@ -7,4 +7,8 @@ Proyecto donde aplicar los principales conceptos de Laravel.
 - View: Se puede retornar una vista estática o dinámica como respuesta de la Ruta.
 - Controller: Una Ruta se puede entener con un Controlador para devolver una Vista o conjunto de datos.
 - Entity: donde gestionamos nuestra conexión a base de datos.
-
+    php artisan make:model Post -msfc
+        Model
+        Seeder
+        Factory
+        Controller
